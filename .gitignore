@@ -1,0 +1,6 @@
+/*.suo
+/AN/bin/*.pdb
+/AN/bin/AN.vshost.exe
+/AN/bin/AN.vshost.exe.config
+/AN/bin/AN.vshost.exe.manifest
+obj/
